@@ -4,3 +4,4 @@ Jurusan: Sistem Informasi
 Fakultas: Teknologi Informasi
 Universitas Al-Ghifari
 Alamat: Subang
+Umur: 18 Tahun
